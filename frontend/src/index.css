@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.Toastify__toast {
+  border-radius: 0.5rem;
+  font-weight: 500;
+}
