@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const API_URL = "http://localhost:5000/api/notes";
+// ✅ Updated API URL to point to the live backend
+const API_URL = "https://my-note-app-nskp.onrender.com/api/notes";
 
 const getAuthHeaders = () => ({
   headers: {
